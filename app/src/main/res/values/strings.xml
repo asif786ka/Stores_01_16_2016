@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">StoreFinder</string>
+    <string name="store_name_label">Name</string>
+    <string name="store_id_label">Store ID</string>
+    <string name="store_zipcode_label">Zipcode</string>
+    <string name="store_phone_label">Phone</string>
+    <string name="store_city_label">City</string>
+    <string name="store_address_label">Address</string>
+    <string name="store_detail_screen">StoreFinder Detail Screen</string>
+    <string name="store_network_error">No network availaible</string>
+    <string name="store_network_message">Please connect to wifi or cellular data and try again</string>
+    <string name="store_volley_network_error">Volley network error</string>
+    <string name="store_volley_cache_error">Volley cache error</string>
+    <string name="ok">OK</string>
+    <string name="permission_network_rationale">Access network permission is needed to access events</string>
+    <string name="permissions_not_granted">Permissions were not granted.</string>
+    <string name="permision_available_network">Access network permissions have been granted. Calendar screen can now be opened.</string>
+
+</resources>
